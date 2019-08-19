@@ -28,7 +28,8 @@ for i in range(1,3):
 		area = house.find('div',class_="details-item").contents[3].text
 		floor = house.find('div',class_="details-item").contents[5].text
 		year = house.find('div',class_="details-item").contents[7].text
-		broker = house.find('span',class_="brokername").text[1:]
+		# broker = house.find('span',class_="brokername").text
+		broker = ''
 		address = house.find('span',class_="comm-address").text.strip().replace('\xa0\xa0\n',' ')
 		tag_list = house.find_all('span',class_='item-tags')
 		tags = [i.text for i in tag_list]
