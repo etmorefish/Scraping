@@ -36,16 +36,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weibo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/face++.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -70,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/cloudms/cloudms/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="e#631#663#0" expanded="true" />
               </folding>
@@ -132,6 +149,8 @@
         <option value="$PROJECT_DIR$/cloudms/cloudms/urls.py" />
         <option value="$PROJECT_DIR$/cloudms/msgapp/views.py" />
         <option value="$PROJECT_DIR$/weibo.py" />
+        <option value="$PROJECT_DIR$/shenjian-sdk-python_/face++.py" />
+        <option value="$PROJECT_DIR$/face++.py" />
       </list>
     </option>
   </component>
@@ -146,8 +165,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="95" />
+    <option name="x" value="-87" />
+    <option name="y" value="27" />
     <option name="width" value="1386" />
     <option name="height" value="648" />
   </component>
@@ -180,12 +199,13 @@
     <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Scraping\pyc02\mysite\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Scraping\pyc02\mysite\helloapp" />
       <recent name="D:\Scraping" />
+      <recent name="D:\Scraping\pyc02\mysite\helloapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scraping" />
+      <recent name="D:\Scraping\pyc02\mysite\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.weibo">
+  <component name="RunManager" selected="Python.face++">
     <configuration name="arrayss" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +234,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/arrayss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face++" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face++.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,27 +305,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="url 构建" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scraping" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_flask" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_flask/url 构建.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face++" />
         <item itemvalue="Python.weibo" />
         <item itemvalue="Python.arrayss" />
         <item itemvalue="Python.for_http" />
         <item itemvalue="Python.templates" />
-        <item itemvalue="Python.url 构建" />
       </list>
     </recent_temporary>
   </component>
@@ -330,21 +350,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="95" width="1386" height="648" extended-state="0" />
-    <editor active="true" />
+    <frame x="-87" y="27" width="1386" height="648" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17507419" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17507419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.42801556" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879376" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32879376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39688715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294702" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49702382" visible="true" weight="0.26459143" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49702382" visible="true" weight="0.26459143" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5029762" side_tool="true" weight="0.30983606" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -591,7 +610,7 @@
     <entry file="file://$PROJECT_DIR$/cloudms/cloudms/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="e#631#663#0" expanded="true" />
           </folding>
@@ -608,12 +627,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/weibo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgh.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face++.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
